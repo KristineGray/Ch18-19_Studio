@@ -1,0 +1,16 @@
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.exe
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.deps.json
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.runtimeconfig.json
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.dll
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\ref\RestaurantMenu.dll
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\bin\Debug\net5.0\RestaurantMenu.pdb
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.csproj.AssemblyReference.cache
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.AssemblyInfo.cs
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.dll
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\ref\RestaurantMenu.dll
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.pdb
+C:\Users\Kris\source\repos\LaunchCode\Ch18-19_Studio\RestaurantMenu\RestaurantMenu\obj\Debug\net5.0\RestaurantMenu.genruntimeconfig.cache
