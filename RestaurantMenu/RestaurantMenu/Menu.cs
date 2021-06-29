@@ -41,26 +41,17 @@ namespace RestaurantMenu
             Console.WriteLine($"\n\n\nMenu Last Updated: {this.LastUpdated}");
         }
 
-        /*
-        public void PrintMenu()
+        public void ComparePrices(MenuItem itemOne, MenuItem itemTwo)
         {
-            Console.WriteLine($"{this.Name.ToUpper()}\n");
-            foreach (MenuItem item in appetizers)
+            if (itemOne.Price == itemTwo.Price)
             {
-                item.PrintMenuItem();
+                Console.WriteLine($"\n{itemOne.Name} has the same price as {itemTwo.Name} of ${itemOne.Price}");
             }
-            Console.WriteLine();
-            foreach (MenuItem item in mainCourses)
+            else
             {
-                item.PrintMenuItem();
-            }
-            Console.WriteLine();
-            foreach (MenuItem item in desserts)
-            {
-                item.PrintMenuItem();
+                Console.WriteLine($"\n{itemOne.Name} with a price of ${itemOne.Price} does not have the same price as {itemTwo.Name} which is ${itemTwo.Price}");
             }
 
         }
-         */
     }
 }

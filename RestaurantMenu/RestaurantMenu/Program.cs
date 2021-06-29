@@ -71,6 +71,16 @@ namespace RestaurantMenu
             Console.WriteLine($"This is just itemFour {itemFour.Name} using the PrintMenuItem method from the MenuItem class.\n\n");
             itemFour.PrintMenuItem();     
             Console.ReadKey();
+
+            Console.Clear();
+            Console.WriteLine("Comparing Prices Test One: Expected Result: FALSE");
+            menu.ComparePrices(itemOne, itemTwo);
+            Console.ReadKey();
+
+            Console.Clear();
+            Console.WriteLine("Comparing Prices Test Two: Expected Result: TRUE");
+            menu.ComparePrices(itemSix, itemTwo);
+            Console.ReadKey();
         }
     }
 }
